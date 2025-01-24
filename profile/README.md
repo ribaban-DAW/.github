@@ -7,7 +7,7 @@ Contenedor de proyectos relacionados con el Ciclo Formativo de Grado Superior en
 - [Digitalización Aplicada a los Sectores Productivos](https://github.com/ribaban-DAW/Digitalizacion)
 - Entornos de Desarrollo
 - Itinerario Personal para la Empleabilidad
-- Lenguaje de Marcas y Sistemas de Gestión de Información
+- [Lenguaje de Marcas y Sistemas de Gestión de Información](https://github.com/ribaban-DAW/LenguajeDeMarcas)
 - [Programación](https://github.com/ribaban-DAW/Programacion)
 - [Sistemas Informáticos](https://github.com/ribaban-DAW/SistemasInformaticos)
 - Sostenibilidad Aplicada al Sistema Productivo
