@@ -8,7 +8,7 @@ Contenedor de proyectos relacionados con el Ciclo Formativo de Grado Superior en
 - Entornos de Desarrollo
 - Itinerario Personal para la Empleabilidad
 - [Lenguaje de Marcas y Sistemas de Gestión de Información](https://github.com/ribaban-DAW/LenguajeDeMarcas)
-- [Programación](https://github.com/ribaban-DAW/Programacion)
+- [Programación I](https://github.com/ribaban-DAW/Programacion)
 - [Sistemas Informáticos](https://github.com/ribaban-DAW/SistemasInformaticos)
 - Sostenibilidad Aplicada al Sistema Productivo
 
@@ -16,3 +16,4 @@ Contenedor de proyectos relacionados con el Ciclo Formativo de Grado Superior en
 
 - [DynSoul](https://github.com/ribaban-DAW/DynSoul): Página web para el trabajo de Plan de Transformación Digital en Digitalización Aplicada a los Sectores Productivos.
 - [Remiindler](https://github.com/ribaban-DAW/remiindler): Script para listar tareas pendientes.
+- [CRUD Bar](https://github.com/ribaban-DAW/Programacion/tree/main/Ejercicios/EjerciciosJDBC): Página web sobre un bar, con vistas para usuarios y administradores. Útimo proyecto de Programación I.
